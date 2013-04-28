@@ -1,0 +1,60 @@
+# dots
+.settings
+.cache
+.coverage
+.~lock.*
+
+# pydev
+.project
+.pydevproject
+
+# intellij
+*.iml
+.idea/
+
+# python
+*.pyc
+*.pyo
+nosetests.xml
+coverage.xml
+stats.dat
+
+# python-libs
+.noseids
+sphinx
+*.egg-info/
+build/
+dist/
+
+# vim
+\#*
+.\#*
+.*.swp
+*~
+.*.sw*
+
+# scratch directory
+local
+dumps
+tmp
+coverage/
+_build/
+usecases/
+
+# files
+TAGS
+tags
+
+# rope
+.ropeproject
+
+# emacs
+*_flymake.py
+.dir-locals.el
+
+# logs
+*.log
+*.log.*
+
+# mac os x
+.DS_Store
